@@ -1,0 +1,11 @@
+{
+"name": "twtai",
+"owner": { "name": "Smita Iyer" },
+"plugins": [
+{
+"name": "doc-skills",
+"source": "./plugins/doc-skills",
+"description": "Documentation commands, a skill, an agent, and remote MCP servers."
+}
+]
+}
