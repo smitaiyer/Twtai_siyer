@@ -1,0 +1,8 @@
+{
+  "name": "community-agents-plugin",
+  "description": "Community-contributed specialized agents for solving complex tasks",
+  "version": "1.0.0",
+  "author": {
+    "name": "Claude Community"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "community-skills-plugin",
+  "description": "Community-contributed skills for code review, documentation, analysis, and more",
+  "version": "1.0.0",
+  "author": {
+    "name": "Claude Community"
+  }
+}

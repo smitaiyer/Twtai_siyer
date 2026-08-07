@@ -1,4 +1,45 @@
 {
-"name": "twtai_marketplace",
-"owner": { "name": "Tech Writer's Tribe AI Mastery Batch 2" },
+  "name": "claude-community-marketplace",
+  "owner": {
+    "name": "Smita Iyer"
+  },
+  "description": "A community marketplace for sharing Claude agents, skills, tools, and prompts",
+  "version": "1.0.0",
+  "homepage": "https://github.com/smitaiyer/Twtai_siyer",
+  "repository": "https://github.com/smitaiyer/Twtai_siyer",
+  "plugins": [
+    {
+      "name": "community-skills-plugin",
+      "source": "./plugins/community-skills",
+      "description": "Essential skills contributed by the community",
+      "version": "1.0.0"
+    },
+    {
+      "name": "community-agents-plugin",
+      "source": "./plugins/community-agents",
+      "description": "Custom agents for specialized tasks",
+      "version": "1.0.0"
+    },
+    {
+      "name": "community-tools-plugin",
+      "source": "./plugins/community-tools",
+      "description": "MCP servers and custom tools for integration",
+      "version": "1.0.0"
+    }
+  ],
+  "metadata": {
+    "categories": [
+      "skills",
+      "agents",
+      "tools",
+      "prompts"
+    ],
+    "license": "MIT",
+    "maintainers": [
+      {
+        "name": "Smita Iyer",
+        "email": "sbokil@gmail.com"
+      }
+    ]
+  }
 }

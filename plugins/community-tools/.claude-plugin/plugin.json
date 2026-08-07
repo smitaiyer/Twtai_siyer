@@ -1,0 +1,8 @@
+{
+  "name": "community-tools-plugin",
+  "description": "Community-contributed MCP servers and integration tools",
+  "version": "1.0.0",
+  "author": {
+    "name": "Claude Community"
+  }
+}
